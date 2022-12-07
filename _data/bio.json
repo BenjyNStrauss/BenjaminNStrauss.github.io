@@ -2,7 +2,7 @@
   "basics": {
     "name": "Benjamin (Benjy) Strauss",
     "label": "Ph.D. Student",
-    "picture": "BenjyNStrauss.github.io/img/benjy-strauss.jpg",
+    "picture": "https://www.trigamon.com/Trigamon.com/devs/pics/benjy-strauss.jpg",
     "email": "bnstraus@hawaii.edu",
     "phone": "650-861-1977",
     "website": "https://benjynstrauss.github.io",
@@ -29,6 +29,33 @@
     }
   ],
   "education": [
+     {
+      "institution": "Foothill College, Los Altos Hills, CA",
+      "area": ["Mathematics", "Computer Science"],
+      "studyType": "A.S.",
+      "startDate": "2010",
+      "endDate": "2013",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of California - Santa Cruz, Santa Cruz, CA",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2013",
+      "endDate": "2015",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "San Jose State University, San Jose, CA",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2016",
+      "endDate": "2019",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
