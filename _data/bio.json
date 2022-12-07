@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Benjamin (Benjy) Strauss",
+    "label": "Ph.D. Student",
+    "picture": "https://www.trigamon.com/Trigamon.com/devs/pics/benjy-strauss.jpg",
+    "email": ["benjynstrauss@gmail.com", "bnstraus@hawaii.edu"],
+    "phone": "+1 650-861-1977",
+    "website": "https://benjynstrauss.github.io",
+    "summary": "I am studying for a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.  This profile is still in development.",
+    "location": { "address": "2501 Coyne Street", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "BenjyNStrauss", "url": "https://github.com/BenjyNStrauss" },
+      { "network": "linkedin", "username": "Benjamin Strauss", "url": "https://www.linkedin.com/in/benjamin-strauss-297870b1/" },
+    ]
+  },
+  "interests": [
+    { "name": "Computational Science" },
+    { "name": "Bioinformatics" },
+    { "name": "Game Design" },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Linux: Mint" ]
+    }
+  ],
+  "education": [
+     {
+      "institution": "Foothill College, Los Altos Hills, CA",
+      "area": ["Mathematics", "Computer Science"],
+      "studyType": "A.S.",
+      "startDate": "2010",
+      "endDate": "2013",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of California - Santa Cruz, Santa Cruz, CA",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2013",
+      "endDate": "2015",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "San Jose State University, San Jose, CA",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2016",
+      "endDate": "2019",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    { 
+      "company": "San Jose State University Tower Foundation",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Computational researcher in the Lustig Group",
+      "highlights": [
+        "Generate, accumulate, and evaluate amino acid and protein data",
+      ]
+    },
+    {
+    }
+  ],
+  "volunteer": [
+    {
+    }
+  ],
+  "awards": [
+    {
+      "title": "ARCS Scholar",
+      "date": "2022",
+      "awarder": "ARCS Foundation",
+      "summary": "Scholarships awarded for graduate research in the sciences."
+    },
+    {
+    }
+  ],
+  "references": [
+    {
+    }
+  ]
+}
