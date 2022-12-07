@@ -3,7 +3,7 @@
     "name": "Benjamin (Benjy) Strauss",
     "label": "Ph.D. Student",
     "picture": "https://www.trigamon.com/Trigamon.com/devs/pics/benjy-strauss.jpg",
-    "email": ["benjynstrauss@gmail.com", "bnstraus@hawaii.edu"],
+    "email": "benjynstrauss@gmail.com",,
     "phone": "+1 650-861-1977",
     "website": "https://benjynstrauss.github.io",
     "summary": "I am studying for a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.  This profile is still in development.",
@@ -77,8 +77,6 @@
       "highlights": [
         "Generate, accumulate, and evaluate amino acid and protein data",
       ]
-    },
-    {
     }
   ],
   "volunteer": [
@@ -91,8 +89,6 @@
       "date": "2022",
       "awarder": "ARCS Foundation",
       "summary": "Scholarships awarded for graduate research in the sciences."
-    },
-    {
     }
   ],
   "references": [
