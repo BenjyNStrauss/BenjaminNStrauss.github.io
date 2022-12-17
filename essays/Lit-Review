@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: "A Review of Protein Structure and Function Prediction in Light of the Transformer Archetecture"
+# All dates must be YYYY-MM-DD format!
+date: 2022-12-07
+published: true
+labels:
+  - Proteomics
+  - Machine Learning
+---
+
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
+In Progress
